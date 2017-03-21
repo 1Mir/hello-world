@@ -1,1 +1,2 @@
 this is a file on branch other_branch
+and now I add some stuff bla bla bla
