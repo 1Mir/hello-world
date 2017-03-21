@@ -1,2 +1,1 @@
-this is a file on branch other_branch
-and now I add some stuff bla bla bla
+this is a file on branch still_another_branch
