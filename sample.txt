@@ -1,1 +1,1 @@
-this is a file on branch MASTER
+this is a file on branch other_branch
